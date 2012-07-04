@@ -1,3 +1,5 @@
+Jest to przykładowa aplikacja sklepu internetowego, napisana w Ruby on Rails.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
